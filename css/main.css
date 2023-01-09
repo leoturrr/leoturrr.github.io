@@ -467,7 +467,16 @@ a{
 .copyright p+p {
     margin-top: 0.5em;
 }
-
+.project_descriiption{
+    justify-content: left;
+}
+.p__oproecte{
+    /* text-align: center;
+    align-items: center; */
+    margin: 0 auto;
+    font-size:20px;
+    margin-bottom: 30px;
+}
 @media (max-width: 620px) {
 
     /* Header  */
